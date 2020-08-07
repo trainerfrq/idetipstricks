@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ide" />
+        <module name="mars" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ide" target="1.5" />
+      <module name="mars" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
