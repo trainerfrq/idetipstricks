@@ -1,6 +1,6 @@
 package com.training.ide;
 
-public class IdeTipsAndTricks {
+public class IdeTipsAndTricks extends MyBase {
 
     private String myProp;
 
